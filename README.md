@@ -30,13 +30,11 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 
 | Integrante | GitHub | Responsabilidades planejadas | Entregas efetivamente realizadas | Evidências (commits/PRs) |
 |---|---|---|---|---|
-| [Nicoli Félix Assunção] | [nicole-felix] | [**RF01** — Cadastro de carros e motocicletas sem placa duplicada.] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Gustavo Bruno Granja] | [ovatsugo] | [[**RF02**Cadastro de clientes com identificador único e CPF sem duplicidade.] e [**RF03** — Listagem e consulta de veículos por placa e disponibilidade] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Laura da Rocha Correia] | [codedbylaura] | [Ex.: locações — RF04] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Matheus Audiere da Silva Oliveira] | [mateusaudiere] | [Ex.: regras de cálculo — RF05] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Laura da Rocha Correia] | [codedbylaura] | [Ex.: devolução e consultas — RF06/RF07] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 6] | [@usuario6 — substituir] | [Ex.: exceções e validações] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 7] | [@usuario7 — substituir] | [Ex.: documentação e integração; também contribuir no código] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Nicoli Félix Assunção] | [@nicole-felix] | [**RF01** — Cadastro de carros e motocicletas sem placa duplicada.] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Gustavo Bruno Granja] | [@ovatsugo] | [[**RF02**Cadastro de clientes com identificador único e CPF sem duplicidade.] e [**RF03** — Listagem e consulta de veículos por placa e disponibilidade] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Laura da Rocha Correia] | [@codedbylaura] | [**RF04** — Registro de locação com cliente, veículo disponível e dias válidos.] e [**RF05** — Cálculo polimórfico: carro (diária × dias + R$ 40,00); motocicleta (diária × dias, com 10% de desconto a partir de sete dias).] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Matheus Audiere da Silva Oliveira] | [@mateusaudiere] | [**RF06** — Devolução e liberação do veículo.] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Ana Clara Pereira Pacheco] | [@anaclarapachecoo] | [ **RF07** — Consulta de locações com valor e situação.] | [Preencher após implementação] | [Links para commits/PRs] |
 
 > Ajuste a quantidade de linhas ao número real de integrantes. **Planejamento não equivale a comprovação de autoria.** A avaliação individual considerará as alterações efetivas e a capacidade de explicá-las. A distribuição acima é apenas ilustrativa; não há obrigação de manter essas atribuições.
 
