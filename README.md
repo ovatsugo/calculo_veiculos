@@ -30,8 +30,8 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 
 | Integrante | GitHub | Responsabilidades planejadas | Entregas efetivamente realizadas | Evidências (commits/PRs) |
 |---|---|---|---|---|
-| [Nome 1] | [@usuario1 — substituir] | [Ex.: cadastro de veículos — RF01] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 2] | [@usuario2 — substituir] | [Ex.: cadastro de clientes — RF02] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Nome 1] | [nicole-felix] | [**RF01** — Cadastro de carros e motocicletas sem placa duplicada.] | [Preencher após implementação] | [Links para commits/PRs] |
+| [Nome 2] | [ovatsugo] | [[**RF02**Cadastro de clientes com identificador único e CPF sem duplicidade.] | [Preencher após implementação] | [Links para commits/PRs] |
 | [Nome 3] | [@usuario3 — substituir] | [Ex.: locações — RF04] | [Preencher após implementação] | [Links para commits/PRs] |
 | [Nome 4] | [@usuario4 — substituir] | [Ex.: regras de cálculo — RF05] | [Preencher após implementação] | [Links para commits/PRs] |
 | [Nome 5] | [@usuario5 — substituir] | [Ex.: devolução e consultas — RF06/RF07] | [Preencher após implementação] | [Links para commits/PRs] |
